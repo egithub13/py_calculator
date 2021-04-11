@@ -12,7 +12,7 @@ class Person():
 		print(self.name)
 
 root = Tk()
-root.title("Tkinter Demo")
+root.title("Tkinter Calculator")
 root.minsize(150,100)
 #Draw display
 display = Entry(root)
